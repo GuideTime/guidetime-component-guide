@@ -7,10 +7,7 @@ const config = {
     "../stories/**/*.stories.@(js|jsx|mjs|ts|tsx)"
   ],
   "addons": [
-    "@storybook/addon-docs",
-    "@storybook/addon-controls",
-    "@storybook/addon-actions",
-    "@storybook/addon-viewport",
+    "@storybook/addon-essentials",
     "@storybook/addon-a11y"
   ],
   "framework": {
