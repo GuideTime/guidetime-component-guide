@@ -67,7 +67,7 @@ npm run storybook
 
 ## 🌐 Deployment
 
-This documentation is automatically deployed to GitHub Pages via GitHub Actions on every push to the main branch. The live documentation is available at: `https://[username].github.io/guidetime-component-guide`
+This documentation is automatically deployed to GitHub Pages via GitHub Actions on every push to the main branch. The live documentation is available at: `https://guidetime.github.io/guidetime-component-guide`
 
 ### Manual Deployment
 ```bash
@@ -119,7 +119,7 @@ guidetime-component-guide/
 
 - [Salesforce Lightning Web Components Developer Guide](https://developer.salesforce.com/docs/component-library/documentation/en/lwc)
 - [Lightning Design System](https://www.lightningdesignsystem.com/)
-- [GuideTime Apex Documentation](confluence-link-here) - Internal Confluence space
+- [GuideTime Apex Documentation](https://guidetime.atlassian.net/wiki/spaces/GT/overview) - Internal Confluence space
 - [Storybook Documentation](https://storybook.js.org/docs)
 
 ---
